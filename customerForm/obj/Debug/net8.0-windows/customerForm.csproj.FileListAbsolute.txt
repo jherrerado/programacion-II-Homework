@@ -1,0 +1,17 @@
+C:\Users\jhanj\source\repos\customerForm\customerForm\bin\Debug\net8.0-windows\customerForm.exe
+C:\Users\jhanj\source\repos\customerForm\customerForm\bin\Debug\net8.0-windows\customerForm.deps.json
+C:\Users\jhanj\source\repos\customerForm\customerForm\bin\Debug\net8.0-windows\customerForm.runtimeconfig.json
+C:\Users\jhanj\source\repos\customerForm\customerForm\bin\Debug\net8.0-windows\customerForm.dll
+C:\Users\jhanj\source\repos\customerForm\customerForm\bin\Debug\net8.0-windows\customerForm.pdb
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.Form1.resources
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.csproj.GenerateResource.cache
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.AssemblyInfoInputs.cache
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.AssemblyInfo.cs
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.csproj.CoreCompileInputs.cache
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.dll
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\refint\customerForm.dll
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.pdb
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.genruntimeconfig.cache
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\ref\customerForm.dll
+C:\Users\jhanj\source\repos\customerForm\customerForm\obj\Debug\net8.0-windows\customerForm.Properties.Resources.resources
